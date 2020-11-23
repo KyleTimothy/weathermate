@@ -1,0 +1,66 @@
+body{
+color:white;
+    background-image: linear-gradient(to bottom right,blue, purple);
+}
+
+#Titlename{
+padding-top: 7.2em;
+font-family: 'Goldman', cursive;
+font-size: 60px;
+font-stretch: expanded;
+
+
+}
+
+
+.hero{
+
+
+    background-image: url("https://weatherflow.com/wp-content/uploads/2020/03/weird-weather.png");
+
+    height:50rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.hero h1{
+
+    text-align: center;
+}
+#city{
+
+    width:20em;
+}
+.col-sm-3 img{
+    width: 12em;
+}
+
+#CityName{
+    font-size: 1.2em;
+   
+}
+#citySection{
+padding-right: -10em;
+margin-left: -10em;
+}
+ tr{
+   
+    font-size:13.54px;
+}
+
+table{
+
+    width:50em;
+    padding: 15em;
+}
+
+
+#sevenForcast{
+    
+    margin-left: -25em;
+    margin-top: 10em;
+    padding-right: 100px;
+    
+}
